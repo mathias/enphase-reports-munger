@@ -1,0 +1,1 @@
+archived 2024-12-14: Use excel for this, not this script, to properly handle montg start/end dates. The Enphase report is formatted by week of the year, I believe, and this script was quick so it doesn't handle those cases.
